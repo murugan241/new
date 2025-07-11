@@ -1,0 +1,34 @@
+.notification-container{
+    background-color: #FFFFFF;
+    padding: 40px;
+}
+
+.notification-title{
+    color: #212529;
+    font-family: 'Lato';
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31.2px;
+}
+
+.notification-description{
+    color: #4D5154;
+    font-family: 'Lato';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.notification-list{
+    border: #A2A1A833 1px solid;
+    border-radius: 10px;
+    width: 1080px;
+    height: 468px;
+    margin-left: 0;
+    padding: 20px;
+}
+.container {
+    display: flex;
+    height: 100vh; /* Adjust based on your requirements */
+  }
+  
